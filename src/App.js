@@ -21,7 +21,7 @@ function App() {
       {/* <Customhook/> */}
       {/* <Pagination/> */}
       {/* <Main/> */}
-      {/* <Weatherapp/> */}
+      <Weatherapp/>
       {/* <Createtodo/> */}
       {/* <Todo/> */}
       {/* <Homel/> */}
