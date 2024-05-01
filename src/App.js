@@ -15,7 +15,7 @@ import Stopwatch from './components/countdown/stopwatch';
 function App() {
   return (
     <div>
-      {/* <Movie/> */}
+      <Movie/>
       <Stopwatch/>
       {/* <Homecustom/> */}
       {/* <Customhook/> */}
